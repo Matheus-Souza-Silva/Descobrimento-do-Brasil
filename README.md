@@ -4,9 +4,9 @@ Esse site foi feito em grupo com outras 2 pessoas no meio do 1º Semestre, se us
 
 ---
 
-## Minha parte
+# Minha parte
 
-# Economia
+## Economia
 
 Enquanto o Brasil esteve sob o domínio de Portugal, **a economia foi de exportação**, para atender aos interesses do mercado externo. A primeira atividade econômica foi a **extração do pau-brasil**. Como os portugueses não encontraram nenhum metal precioso no primeiro contato com a terra recém encontrada, o comércio daquela árvore da Mata Atlântica possibilitou aos colonizadores um ganho na exploração do Brasil Colônia. A Coroa portuguesa acreditava que encontraria metais preciosos com a mesma facilidade com que os espanhóis encontraram na América Central.
 
@@ -20,7 +20,7 @@ Tal qual na produção açucareira, os metais preciosos foram levados para Portu
 
 ---
 
-## **Economia colonial: Monocultura e latifúndio**
+### **Economia colonial: Monocultura e latifúndio**
 
 Entende-se como **monocultura** os espaços de terra onde se cultiva apenas um único produto agrícola. Por sua vez, o **latifúndio** é uma propriedade rural extensa de posse de uma única pessoa, de poucas famílias ou mesmo empresas, designados como latifundiários.
 
@@ -30,7 +30,7 @@ Como comerciantes, eles **detinham de um forte poder econômico sobre a região
 
 ---
 
-## **Economia colonial: Engenho**
+### **Economia colonial: Engenho**
 
 Os **engenhos eram propriedades de produção açucareira**. Devido ao alto custo dessa propriedade, as terras eram privilégio de pessoas que possuíam recursos, como capitães donatários (que ocupavam cargos administrativos) e aqueles que tinham mais proximidade com a Coroa portuguesa. No início do século XVII, na região litorânea do Nordeste, os engenhos se multiplicaram.
 
@@ -50,7 +50,7 @@ Os engenhos eram divididos entre:
 
 ---
 
-## **Os ciclos econômicos do Brasil Colônia**
+### **Os ciclos econômicos do Brasil Colônia**
 
 As atividades econômicas no Brasil se estabeleceram a partir de dois grandes ciclos, fundamentais para o desenvolvimento da colônia: o açúcar e as jazidas. Sendo, portanto, conhecidos como o **Ciclo do Açúcar e o Ciclo do Ouro.**
 
@@ -92,7 +92,7 @@ Porém, esse é apenas um dos impostos que foram cobrados na época.
 
 ---
 
-## **Tráfico negreiro**
+### **Tráfico negreiro**
 
 O **tráfico negreiro foi também uma atividade marcante na economia colonial**, entre os séculos XV e XIX. Na África, nativos eram capturados e trazidos para o Brasil em navios superlotados e em más condições, também conhecido como **navio tumbeiro.**
 
@@ -104,7 +104,7 @@ Em 1850, a **Lei Eusébio de Queirós aboliu o tráfico negreiro no Brasil.**
 
 ---
 
-# Consequências
+## Consequências
 
 A colonização trouxe consequências que vemos até hoje para os povos que já habitavam as terras brasileiras antes da chegada dos portugueses, os índios. **A cultura indígena foi suprimida**, já que os europeus acreditavam que a sua linhagem era superior.
 
@@ -120,7 +120,7 @@ A violência é outra das consequências da colonização do Brasil. Segundo o M
 
 ---
 
-# Referências
+## Referências
 
 JUNIOR, Jair Messias Ferreira. **"Colonização do Brasil".** *Brasil Escola*. Disponível em: [https://brasilescola.uol.com.br/historiab/colonizacao-brasil.htm](https://brasilescola.uol.com.br/historiab/colonizacao-brasil.htm) Acesso em 25 de abril de 2025.
 
