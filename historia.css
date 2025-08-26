@@ -1,0 +1,98 @@
+body {
+    font-family: 'Georgia', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3e5ab;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: #8b4513;
+    padding: 15px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: color 0.3s;
+  }
+  
+  nav ul li a:hover {
+    color: #f3e5ab;
+  }
+/* Estilo geral */
+main {
+    padding: 40px;
+    font-family: 'Georgia', serif;
+    background-color: white;
+}
+
+/* Seções organizadas */
+section {
+    padding: 50px;
+    margin-bottom: 40px;
+    background-color: #f3e5ab;
+    border-radius: 8px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+    border: 2px solid #8b4513;
+}
+
+/* Títulos */
+h2 {
+    font-size: 28px;
+    text-align: center;
+    color: #8b4513;
+    margin-bottom: 20px;
+}
+
+/* Parágrafos */
+p {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+/* Espaço para imagens */
+.imagem-container {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.imagem-container img {
+    width: 80%;
+    max-width: 600px;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Efeito hover na imagem */
+.imagem-container img:hover {
+    transform: scale(1.05);
+}
+
+.rodape {
+    background-color: #8b4513;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    margin-top: 50px;
+}
+
+.conteudo-rodape {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.rodape p{
+    font-size: 18px;
+}
+

@@ -1,0 +1,115 @@
+body {
+    font-family: 'Georgia', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3e5ab;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: #8b4513;
+    padding: 15px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: color 0.3s;
+  }
+  
+  nav ul li a:hover {
+    color: #f3e5ab;
+  }
+/* Estilo geral */
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f3e5ab;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Seção principal */
+.consequencias {
+    padding: 80px 0;
+    background-color: #fff;
+    text-align: center;
+}
+
+/* Contêiner */
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+/* Título */
+h2 {
+    font-size: 40px;
+    color: #8b4513;
+    margin-bottom: 40px;
+}
+
+/* Linha do tempo */
+.linha-do-tempo {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.evento {
+    background-color: #f3e5ab;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+}
+
+/* Comparação Antes e Depois */
+.comparacao {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+.antes, .depois {
+    background-color: #8b4513;
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    width: 45%;
+}
+.descricao-final {
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 40px;
+    padding: 20px;
+    font-weight: bold;
+    color: #000000;
+}
+
+
+.rodape {
+    background-color: #8b4513;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    margin-top: 50px;
+}
+
+.conteudo-rodape {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.rodape p{
+    font-size: 18px;
+}
